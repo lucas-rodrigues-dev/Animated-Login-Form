@@ -168,3 +168,27 @@ input[type="submit"]:hover {
     background: #2195B7;
     transition: 400ms;
 }
+
+.atribute {
+    color: #43f3ff;
+    text-align: center;
+    margin-top: 2rem;
+    font-weight: 500;
+    transition: 400ms;
+}
+
+.atribute:hover {
+   color: #10bea7; 
+   transition: 400ms;
+}
+
+.atribute a {
+    color: #43f3ff;
+    text-decoration: none;
+    transition: 400ms;
+}
+
+.atribute a:hover {
+    color: #2195B7;
+    transition: 400ms;
+}
